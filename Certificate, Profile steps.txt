@@ -1,0 +1,9 @@
+- Certificates
+- App IDs
+	App IDs
+	+ on top right
+	App ID Description (Tileit)
+	Explicit App ID
+	Bundle ID (com.matiapps.tileit)
+	
+- Provisioning Profile
